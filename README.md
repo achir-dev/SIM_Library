@@ -6,7 +6,7 @@ Ultra-low latency shared memory transport for robotics and autonomous systems.
 
 ---
 
-## ⚠️ Data Disclaimer
+## Data Disclaimer
 
 > **IMPORTANT:** Benchmark results may contain measurement errors. Data was collected using custom scripts with embedded timestamps—**FastDDS Monitor was NOT used** for the latest tests. Results should be considered indicative. Hardware variations and system load affect actual performance.
 
