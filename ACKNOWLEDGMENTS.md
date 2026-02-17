@@ -54,4 +54,4 @@ If you found the underlying research useful, please consider citing the original
 
 ## License
 
-MIT License - Copyright (c) 2025 Nabil Achir
+MIT License with Citation Requirement - Copyright (c) 2025 Nabil Achir
