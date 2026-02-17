@@ -3,7 +3,7 @@
 ## Project Author
 
 **Nabil Achir**
-- GitHub: https://github.com/nabilachir-dev
+- GitHub: https://github.com/achir-dev
 - Email: achir.dev@gmail.com
 
 ## Independent Implementation Notice
