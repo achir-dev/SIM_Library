@@ -2,7 +2,7 @@
 
 Ultra-low latency shared memory transport for robotics and autonomous systems.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: MIT with Citation](https://img.shields.io/badge/License-MIT_with_Citation-blue.svg)](LICENSE)
 
 ---
 
